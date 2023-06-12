@@ -1,0 +1,1 @@
+enum Routes { todos, add, detail, error }
